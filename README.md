@@ -13,3 +13,9 @@
 </p>
 
 - 🐱‍👤 Metas de 2022: Aprimorar habilidades de desenvolvimento web; contribuir em projetos Open Source; Dedicar tempo a hobbies como a programação de jogos
+
+<div align="center">
+  <a href="https://github.com/poschardt">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poschardt&show_icons=true&theme=tokyonight &include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poschardt&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
